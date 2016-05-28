@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "V92E7JutU5onU5mv7XVu+1Q8SQE=",
+			"path": "github.com/tealeg/xlsx",
+			"revision": "46e6e472d68f28b9064c29401e1586e4f7960b33",
+			"revisionTime": "2016-05-23T04:45:58Z"
+		}
+	],
+	"rootPath": "github.com/northlaudk/achievement-platform"
+}
