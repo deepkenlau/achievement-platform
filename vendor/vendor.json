@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "WwTzlLVMwfLIbc8/UIoIlBoiKOc=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "38ee283dabf11c9cbdb968eebd79b1fa7acbabe6",
+			"revisionTime": "2016-05-14T12:23:48Z"
+		},
+		{
 			"checksumSHA1": "V92E7JutU5onU5mv7XVu+1Q8SQE=",
 			"path": "github.com/tealeg/xlsx",
 			"revision": "46e6e472d68f28b9064c29401e1586e4f7960b33",
